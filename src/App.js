@@ -9,7 +9,6 @@ function App() {
         <p></p>
         <h4>Frontend Technical Interview</h4>
       </header>
-      <div className="Divider">&nbsp;</div>
       <p></p>
       <div class="card">
         <div class="card-body">
